@@ -4,7 +4,7 @@
 
 // Do NOT include the /id but make sure you DO include the /prometheon
 
-var API_ENDPOINT = 'https://example1a2s3d.execute-api.us-east-1.amazonaws.com/dev/prometheon';
+var API_ENDPOINT = 'https://k2wnzdx2s5.execute-api.us-east-1.amazonaws.com/dev/prometheon';
 
 // Setup divs that will be used to display interactive messages
 var errorDiv = document.getElementById('error-message')
